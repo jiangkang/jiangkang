@@ -6,4 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=jiangkang&show_icons=true)
 
-![我常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangkang)
+![我常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangkang&hide=javascript,html)
