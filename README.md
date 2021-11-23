@@ -2,6 +2,8 @@
 
 热爱软件设计的小伙
 
+个人博客： https://www.jiangkang.tech
+擅长领域： Android开发&Flutter开发
 
 
 ![](https://github-readme-stats.vercel.app/api?username=jiangkang&show_icons=true)
