@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![jiangkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiangkang)
+![姜康的Github数据](https://github-readme-stats.vercel.app/api?username=jiangkang)
