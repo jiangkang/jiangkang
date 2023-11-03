@@ -1,6 +1,6 @@
 ### 个人介绍
 
-热爱软件设计的小伙
+永远热爱
 
 个人博客： https://www.jiangkang.tech 
 
